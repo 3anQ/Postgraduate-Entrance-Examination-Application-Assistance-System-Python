@@ -1,0 +1,5 @@
+此程序的运行环境为Python3.9.0。
+系统运行需要的包有Pandas、Tkinter、json。
+建模需要的包有Pandas、Sklearn、numpy。
+由于其他地区的数据暂未收录，因此配置文件config.json中读取文件的路径，除京渝川外，没有使用相对路径读取。
+学生成绩.xlsx文件在系统中并未使用，是论文的附属文件。
